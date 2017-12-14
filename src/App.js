@@ -14,7 +14,6 @@ class App extends Component {
                 apiKey: "lFjAhjD01yPqINsKLNpWN611MuJxfos9pYdBHwqY",
                 startDate:`${today.getFullYear()}-${today.getMonth()+1}-${today.getDate()}`,
                 apiUrl: "https://api.nasa.gov/neo/rest/v1/feed",
-
                 asteroids: []
             }
         }
